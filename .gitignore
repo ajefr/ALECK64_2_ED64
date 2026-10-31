@@ -1,0 +1,12 @@
+# Never commit ROMs
+*.z64
+*.v64
+*.n64
+*.zip
+*.u1
+*.u2
+*.u3
+*.u4
+*.u5
+ed64_out/
+__pycache__/
